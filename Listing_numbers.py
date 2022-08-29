@@ -3,6 +3,5 @@ x=1
 y=1
 x=y
 while x <=a+1:
-    print([x]*y,end='')
+    print([x]*y)
     x+=1
-    print()
